@@ -45,10 +45,9 @@ English (C1, IELTS 7.0) · German (A2, B1 exam June 2026) · Malayalam (Native) 
 
 ## 📜 Certifications
 
-- **Microsoft AI-102** — Azure AI Engineer Associate
-- **Microsoft AI-300** — MLOps & GenAI (sitting at GA, 2026)
-- **Google Cloud Digital Leader**
-- **AWS Certified Cloud Practitioner**
+- **Microsoft AI-102** — Azure AI Engineer Associate(pursuing)
+- **Microsoft AI-300** — MLOps & GenAI (pursuing)
+
 
 ---
 
