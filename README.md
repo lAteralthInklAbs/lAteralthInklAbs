@@ -4,7 +4,7 @@
 
 MSc Data Science graduate (Feb 2026) and Associate ML Engineer with 1+ years of industry experience building and maintaining MLDevOps pipelines for automated pharmaceutical document review. I specialize in custom ML model deployment, GenAIOps pipeline engineering, CI/CD automation, RAG systems, multi-agent architectures, and production AI for enterprise solutions.
 
-📧 shivandru@gmail.com · 📱 +49 176 22565483 · 💼 [LinkedIn](https://www.linkedin.com/in/anuroop-shivdasan-79b055166/) · 📍 Magdeburg, Germany
+📧 shivandru@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/anuroop-shivdasan-79b055166/) · 📍 Magdeburg, Germany
 
 ---
 
