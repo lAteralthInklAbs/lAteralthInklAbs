@@ -73,6 +73,7 @@ End-to-end pipeline compressing pre-trained automotive models for edge hardware 
 ## 🎓 Education
 
 **MSc Data Science** — University of Europe for Applied Sciences, Potsdam · Sept 2024 – Feb 2026
+
 **BE Computer Engineering** — Lokmanya Tilak College of Engineering, Mumbai University · 2012 – 2018
 
 ---
