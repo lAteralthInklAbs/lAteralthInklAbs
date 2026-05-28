@@ -20,7 +20,7 @@ MSc Data Science graduate (Feb 2026) and Associate ML Engineer with 1+ years of 
 
 ## 🎓 MSc Thesis — LatBOND
 
-**Latency-Budgeted Onset and Note Detection** (GCP · Nov 2025 – Feb 2026) — real-time music transcription closing the distribution-shift gap between offline training and memory-constrained deployment, extending Hu et al. (ISMIR 2025) with a matched-training methodology.
+**Latency-Budgeted Onset and Note Detection (GCP)** (Nov 2025 – Feb 2026) — real-time music transcription closing the distribution-shift gap between offline training and memory-constrained deployment, extending Hu et al. (ISMIR 2025) with a matched-training methodology.
 
 - Trained **42 models** (3 architectures × 5 latency budgets × 3 conditions) on Vertex AI, orchestrating parallel jobs across T4/L4/A100 GPUs with Docker and automated GCS result upload
 - Solved a deployment distribution-shift problem (models trained on 3–10s sequences degrading under 370–670ms real-world memory constraints); matched training outperforms truncated inference across all 15 architecture-budget combinations (**+0.87 pp avg F1**)
