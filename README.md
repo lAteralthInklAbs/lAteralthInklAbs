@@ -10,9 +10,9 @@ MSc Data Science graduate (Feb 2026) and Associate ML Engineer with 1+ years of 
 
 ## 💼 Experience
 
-**Associate Machine Learning Engineer** — Quantiphi Analytics Solutions Pvt. Ltd. · Mumbai, India · Aug 2022 – Oct 2023
+**Associate Machine Learning Engineer** — Quantiphi Analytics Solutions Pvt. Ltd. · Mumbai, India · Aug 2022 – Sept 2023
 
-- *Data Engineer (Definity Financial, Apr–Oct 2023)* — Migrated legacy Pentaho jobs to Airflow on GCP via Python DAGs; built and validated 17 DAGs for BigQuery warehouse integration.
+- *Data Engineer (Definity Financial, Apr–Sept 2023)* — Migrated legacy Pentaho jobs to Airflow on GCP via Python DAGs; built and validated 17 DAGs for BigQuery warehouse integration.
 - *Associate MLE (Cerevel Therapeutics, Nov 2022–Apr 2023)* — Built and maintained Cloud Functions running MLDevOps pipelines for automated medical-document review from an eTMF server; shipped 4 custom classification pipelines (Financial Disclosures 3K PDFs, PPD Reports 1.5K, Hypercare SOWs 2K, FDA 1572 1K); trained Vertex AI AutoML models with custom Document AI parsers.
 - *MLE Intern (Unum Insurance, Aug–Nov 2022)* — Built AutoML pipeline tagging 1,000+ medical underwriting documents via Cloud Functions.
 
