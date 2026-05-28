@@ -63,9 +63,13 @@ End-to-end pipeline compressing pre-trained automotive models for edge hardware 
 ## 🔧 Technical Skills
 
 **Cloud:** Azure (OpenAI, AI Search, Container Apps, Durable Functions, Event Grid, Cosmos DB, Microsoft Foundry) · AWS (SageMaker, Model Monitor, CodePipeline, IoT Greengrass) · GCP (Vertex AI, BigQuery, Document AI, Cloud Functions)
+
 **AI/ML:** RAG (hybrid BM25+dense, RRF, RAGAS) · Multi-Agent (LangGraph) · LLMs (GPT-4o, prompt flow) · Vector DBs (AI Search, Qdrant) · PyTorch · TensorFlow · SpaCy · ONNX · AutoML · Bayesian Risk Scoring · OR-Tools LP
+
 **MLOps / IaC:** MLflow · SageMaker Pipelines · Airflow · Model Registry · Drift Detection (PSI, MMD, ADWIN) · CI/CD (GitHub Actions, CodePipeline) · Docker · Bicep · Terraform
+
 **Enterprise:** GDPR/Datenschutz (Art. 5/6/17/25/30/35, Presidio) · ISO 26262 · SAP S/4HANA (MM/SD, OData v4) · OWASP LLM Top 10 · Human-in-the-Loop
+
 **Languages:** Python (PyTorch, FastAPI, Pydantic, asyncio, Hypothesis) · SQL · JavaScript · Bash
 
 ---
