@@ -2,7 +2,7 @@
 
 **AI/ML Engineer · MSc Data Science · Magdeburg, Germany**
 
-Machine Learning engineer focused on production AI pipelines — RAG systems, multi-agent architectures, and edge MLOps. MSc Data Science graduate. Blue Card eligible, available immediately.
+Machine Learning engineer focused on production AI pipelines — RAG systems, multi-agent architectures, and edge MLOps. MSc Data Science graduate. 
 
 📧 shivandru@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/anuroop-shivdasan-79b055166/) · 📍 Magdeburg, Germany
 
